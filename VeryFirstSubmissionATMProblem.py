@@ -1,3 +1,9 @@
+'''
+ATM Problem on CodeChef
+URL
+'''
+
+
 cashToWithDraw,cashInAccount = map(float,input().split())
 balance = float(cashInAccount)-float(0.50)
 
